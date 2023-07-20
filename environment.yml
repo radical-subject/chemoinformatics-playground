@@ -1,0 +1,8 @@
+name: chemoinformatics-playground-env
+channels:
+  - conda-forge
+dependencies:
+  - python==3.9.0
+  - notebook
+  - flask
+  - openbabel
